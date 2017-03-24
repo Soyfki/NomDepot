@@ -57,7 +57,7 @@ namespace Exo2a
         private void rbt_vert_CheckedChanged(object sender, EventArgs e)
         {
             if (this.rbt_vert.Checked)
-                this.lblCouleur.BackColor = System.Drawing.Color.Green;
+                this.lblCouleur.BackColor = System.Drawing.Color.Yellow;
         }
 
         /// <summary>

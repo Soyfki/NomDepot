@@ -77,10 +77,10 @@
             this.rbt_vert.AutoSize = true;
             this.rbt_vert.Location = new System.Drawing.Point(6, 54);
             this.rbt_vert.Name = "rbt_vert";
-            this.rbt_vert.Size = new System.Drawing.Size(44, 17);
+            this.rbt_vert.Size = new System.Drawing.Size(54, 17);
             this.rbt_vert.TabIndex = 1;
             this.rbt_vert.TabStop = true;
-            this.rbt_vert.Text = "&Vert";
+            this.rbt_vert.Text = "&Jaune";
             this.rbt_vert.UseVisualStyleBackColor = true;
             this.rbt_vert.CheckedChanged += new System.EventHandler(this.rbt_vert_CheckedChanged);
             // 
