@@ -7,3 +7,6 @@ C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\
 C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.exe
 C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.pdb
 C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.csprojResolveAssemblyReference.cache
+C:\Users\59013-87-01\NomDepot\Exo2a\bin\Debug\Exo2a.exe.config
+C:\Users\59013-87-01\NomDepot\Exo2a\obj\Debug\Exo2a.exe
+C:\Users\59013-87-01\NomDepot\Exo2a\obj\Debug\Exo2a.pdb

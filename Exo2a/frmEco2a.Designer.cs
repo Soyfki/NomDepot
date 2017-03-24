@@ -30,9 +30,9 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox_couleur = new System.Windows.Forms.GroupBox();
-            this.rbt_rouge = new System.Windows.Forms.RadioButton();
-            this.rbt_vert = new System.Windows.Forms.RadioButton();
             this.rbt_bleu = new System.Windows.Forms.RadioButton();
+            this.rbt_vert = new System.Windows.Forms.RadioButton();
+            this.rbt_rouge = new System.Windows.Forms.RadioButton();
             this.checkBox_couleur = new System.Windows.Forms.CheckBox();
             this.lblCouleur = new System.Windows.Forms.Label();
             this.groupBox_couleur.SuspendLayout();
@@ -60,17 +60,17 @@
             this.groupBox_couleur.Text = "Couleur";
             this.groupBox_couleur.Visible = false;
             // 
-            // rbt_rouge
+            // rbt_bleu
             // 
-            this.rbt_rouge.AutoSize = true;
-            this.rbt_rouge.Location = new System.Drawing.Point(6, 19);
-            this.rbt_rouge.Name = "rbt_rouge";
-            this.rbt_rouge.Size = new System.Drawing.Size(57, 17);
-            this.rbt_rouge.TabIndex = 0;
-            this.rbt_rouge.TabStop = true;
-            this.rbt_rouge.Text = "&Rouge";
-            this.rbt_rouge.UseVisualStyleBackColor = true;
-            this.rbt_rouge.CheckedChanged += new System.EventHandler(this.rbt_rouge_CheckedChanged);
+            this.rbt_bleu.AutoSize = true;
+            this.rbt_bleu.Location = new System.Drawing.Point(6, 88);
+            this.rbt_bleu.Name = "rbt_bleu";
+            this.rbt_bleu.Size = new System.Drawing.Size(46, 17);
+            this.rbt_bleu.TabIndex = 2;
+            this.rbt_bleu.TabStop = true;
+            this.rbt_bleu.Text = "&Bleu";
+            this.rbt_bleu.UseVisualStyleBackColor = true;
+            this.rbt_bleu.CheckedChanged += new System.EventHandler(this.rbt_bleu_CheckedChanged);
             // 
             // rbt_vert
             // 
@@ -84,17 +84,17 @@
             this.rbt_vert.UseVisualStyleBackColor = true;
             this.rbt_vert.CheckedChanged += new System.EventHandler(this.rbt_vert_CheckedChanged);
             // 
-            // rbt_bleu
+            // rbt_rouge
             // 
-            this.rbt_bleu.AutoSize = true;
-            this.rbt_bleu.Location = new System.Drawing.Point(6, 88);
-            this.rbt_bleu.Name = "rbt_bleu";
-            this.rbt_bleu.Size = new System.Drawing.Size(46, 17);
-            this.rbt_bleu.TabIndex = 2;
-            this.rbt_bleu.TabStop = true;
-            this.rbt_bleu.Text = "&Bleu";
-            this.rbt_bleu.UseVisualStyleBackColor = true;
-            this.rbt_bleu.CheckedChanged += new System.EventHandler(this.rbt_bleu_CheckedChanged);
+            this.rbt_rouge.AutoSize = true;
+            this.rbt_rouge.Location = new System.Drawing.Point(6, 19);
+            this.rbt_rouge.Name = "rbt_rouge";
+            this.rbt_rouge.Size = new System.Drawing.Size(57, 17);
+            this.rbt_rouge.TabIndex = 0;
+            this.rbt_rouge.TabStop = true;
+            this.rbt_rouge.Text = "&Rouge";
+            this.rbt_rouge.UseVisualStyleBackColor = true;
+            this.rbt_rouge.CheckedChanged += new System.EventHandler(this.rbt_rouge_CheckedChanged);
             // 
             // checkBox_couleur
             // 
@@ -126,7 +126,7 @@
             this.Controls.Add(this.groupBox_couleur);
             this.Controls.Add(this.label1);
             this.Name = "frmEco2a";
-            this.Text = "Exercice 2a : couleurs";
+            this.Text = "Couleurs";
             this.groupBox_couleur.ResumeLayout(false);
             this.groupBox_couleur.PerformLayout();
             this.ResumeLayout(false);
