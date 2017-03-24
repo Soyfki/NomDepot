@@ -1,0 +1,9 @@
+C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\bin\Debug\Exo2a.exe.config
+C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\bin\Debug\Exo2a.exe
+C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\bin\Debug\Exo2a.pdb
+C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.frmEco2a.resources
+C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.Properties.Resources.resources
+C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.csproj.GenerateResource.Cache
+C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.exe
+C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.pdb
+C:\Users\adessinges\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.csprojResolveAssemblyReference.cache
